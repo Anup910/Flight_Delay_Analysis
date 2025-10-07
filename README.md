@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📌 Project Overview
 
@@ -98,12 +97,6 @@ feature-engine
 matplotlib
 seaborn
 ```
-
----
-
-## 📝 License
-
-This project is released under the MIT License.
 
 ---
 
